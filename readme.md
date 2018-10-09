@@ -5,7 +5,7 @@ Allows to exclude scenarios from a feature file
 1. Install plugin:
 
     ```bash
-    $composer require monash/behat-exclude-scenario-name --dev
+    $composer require Narayanabelur/BehatExcludeScenarioName --dev
     ```  
    
 2. Configure the filter in behat.yml file as below:
