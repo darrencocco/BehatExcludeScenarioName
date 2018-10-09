@@ -28,7 +28,7 @@ Allows to exclude scenarios from a feature file
     default:
     ...
         extensions:
-            Monash\BehatExcludeScenarioName: ~
+            Narayanabelur\BehatExcludeScenarioName: ~
     ``` 
     
     where, '~' means empty arguments. Scenarios to exclude should be added under
