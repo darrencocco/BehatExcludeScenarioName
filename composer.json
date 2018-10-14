@@ -9,16 +9,6 @@
             "homepage": ""
         }
     ],
-    "require": {
-        "php": "^7.1",
-
-        "behat/behat": "^3.1",
-        "symfony/dependency-injection": "^2.8|^3.0"
-    },
-    "require-dev": {
-        "monash/test-context": "^1.0",
-        "phpspec/phpspec": "^4.0@alpha"
-    },
     "autoload": {
         "psr-4": { "Monash\\BehatExcludeScenarioName\\": "src/" }
     }
